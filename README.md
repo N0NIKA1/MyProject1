@@ -1,1 +1,1 @@
-# TeqoOSAPI
+# MyProject
